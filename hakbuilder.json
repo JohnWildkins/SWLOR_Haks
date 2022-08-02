@@ -162,5 +162,10 @@
       "Path": "./swlor2_wok/",
       "CompileModels": false
     },
+    {
+      "Name":  "ACPv40",
+      "Path": "./ACPv40/",
+      "CompileModels": false
+    }
   ]
 }
